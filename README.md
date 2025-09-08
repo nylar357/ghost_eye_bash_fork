@@ -48,7 +48,7 @@ Hi there, Shall we play a game..? 😃
 
 [+] Enter your choice:
 
-![Screenshot](featured-image.png)
+![Screenshot](ghosteye.png)
 
   
 ## Video demo: Watch on LBRY/Odysee
