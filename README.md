@@ -51,72 +51,13 @@ Hi there, Shall we play a game..? 😃
 ![Screenshot](ghosteye.png)
 
   
-## Video demo: Watch on LBRY/Odysee
-
-**[Video](https://open.lbry.com/@hackingpassion:9/Ghost-Eye-Informationgathering-Footprinting-Scanner-and-Recon-Tool-Release:3)**
-
 
 ## Install and run on Linux
  
 You have to install Nmap and EtherApe too:
-
-  
-* On Arch Linux and its distros: 
-```
-sudo pacman -S etherape nmap dnsutils gnome-terminal httpie mtr
-```
-
-  
-* On Debian and its distros (Kali Linux, Parrot Security OS): 
-```
-sudo apt install etherape nmap dnsutils gnome-terminal httpie mtr
-```
-
-After installing Etherape sometimes a GNOME error can occur, for which you install: (This will solve the common error)
-* apt install libgnomeui-0: amd64
-
-    
-    
-## Install Ghost Eye:
-* git clone https://github.com/BullsEye0/ghost_eye.git
-
-* cd ghost_eye
-  
-* pip3 install -r requirements.txt
-
+```sudo apt-get install etherape```
   
 ## Use:
-* python3 ghost_eye.py
+```bash ghost_eye.sh```
 
-
-# Contact to coder
-Social Networks - Connect
-
-* Website [HackingPassion.com](https://hackingpassion.com)
-
-* [Facebook Personal](https://www.facebook.com/jolandadekoff)
-
-* [linkedin](https://www.linkedin.com/in/jolandadekoff/)
-
-* [LBRY/Odysee](https://lbry.tv/$/invite/@hackingpassion:9)
-
-* [Facebook Page](https://www.facebook.com/ethical.hack.group)
-
-* [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
-  
-  
-
-***
-
-## Donate
-
-
-I have developed Ghost Eye because I am passionate about this. 
-Donations are one of the many ways to support what I do.
-
-[Donate](https://bullseye0.com/donate)
-
-BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
 
